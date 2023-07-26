@@ -1,0 +1,23 @@
+body{
+    background-color: #AFE1AF;
+}
+h3{
+    text-align: center;
+    background-color: whitesmoke;
+    color: green !important;
+}
+/*Image Tag*/
+img{
+    display: block;
+    height: 500px;
+    width: 600px;
+    margin: auto;
+}
+.class1 #paragraph1{
+    color: darkgreen;
+    background-color: #50C878;
+}
+.class1 #paragraph3{
+    background-color: #B3E3CB;
+    color: saddlebrown;
+}
